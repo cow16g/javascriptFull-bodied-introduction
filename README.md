@@ -1,1 +1,3 @@
 # javascriptFull-bodied-introduction
+
+改訂新版javascript本格入門の写経
