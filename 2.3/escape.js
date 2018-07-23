@@ -1,0 +1,1 @@
+window.alert('こんにちはJavaScript!\n頑張って勉強しましょうね。');
