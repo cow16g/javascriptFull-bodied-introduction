@@ -1,4 +1,4 @@
-console.log(10+1);
+sconsole.log(10+1);
 console.log('10'+1);
 var a = 100;
 var b = '100';
