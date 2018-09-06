@@ -6,3 +6,6 @@ console.log(s.size);
 s.add({});
 s.add({});
 console.log(s.size);
+
+s.add(1);
+console.log(s.size);
